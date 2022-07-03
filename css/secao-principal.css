@@ -1,0 +1,66 @@
+.titulo-principal{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.principal{
+    background-image: url("../img/Background.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    align-items: center;
+}
+
+.principal_img{
+    width: 348px;
+
+    margin: 22px 0 56px 0;
+}
+
+.principal__btn{
+    padding: 1rem;
+
+    color: var(--cor-fonte);
+
+    border-radius: 8px;
+
+    display: inline-block;
+
+    text-decoration: none;
+
+    width: 100%;
+}
+
+.btn__assinatura{
+    background-color: var(--cor-btn);
+}
+
+.btn__alura{
+    border: 1px solid var(--cor-fonte);
+}
+
+.principal__alerta{
+    font-size: 12px;
+
+    color: var(--cor-font-alt);
+}
+
+.principal__conteudo{
+    display: flex;
+    flex-direction: column;
+
+    gap: 1rem;
+
+    align-items: center;
+
+    padding: 7rem;
+
+    text-align: center;
+}

@@ -1,0 +1,32 @@
+.secundaria{
+    margin: 0 10rem;
+    justify-items: center;
+}
+
+.secundaria__conteudo,
+.img__dois{
+    margin: 0 4rem;
+}
+
+.secundaria__img{
+    width: 80%;
+}
+
+.secundaria__titulo{
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.secundaria__descricao{
+    font-weight: 400;
+
+    color: var(--cor-font-alt);
+}
+
+.btn__secao__secundario{
+    background-color: var(--cor-btn);
+
+    width: auto;
+
+    margin-top: 1rem;
+}

@@ -1,0 +1,20 @@
+.rodape{
+    margin: 145px 14rem 50px;
+    text-align: center;
+}
+
+.rodape__links{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem 0 1.5rem;
+}
+
+.item__link{
+    text-decoration: none;
+    color: var(--cor-font);
+}
+
+.rodape__infor{
+    font-size: 14px;
+    color: var(--cor-font-alt);
+}
