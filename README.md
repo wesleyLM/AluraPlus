@@ -23,7 +23,7 @@ Projeto consistir em um layout para desktop do site da Alura Plus onde revisei m
  
 # Acesso ao projeto 
 
-Primeiramente é necessário ter o node js instalado, com o node instalado, clone o projeto com `git clone https://github.com/wesleyLM/AluraFrame.git`, após clonar o projeto, procure pelo arquivo index.html e abrar no seu navegador 
+Primeiramente é necessário ter o node js instalado, com o node instalado, clone o projeto com `git clone https://github.com/wesleyLM/aluraPlus.git`, após clonar o projeto, procure pelo arquivo index.html e abrar no seu navegador 
 
 ## Processo
 
