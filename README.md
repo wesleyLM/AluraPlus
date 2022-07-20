@@ -1,4 +1,4 @@
-# AluraFrame
+# AluraPlus
 Projeto de conclusão do Curso de
 HTML e CSS: praticando HTML/CSS
 
